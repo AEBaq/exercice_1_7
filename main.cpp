@@ -50,3 +50,5 @@ int main() {
     cout << "Le compte va tenir " << nmbre_mois << " mois." << endl;
 
 }
+
+// bonjour
