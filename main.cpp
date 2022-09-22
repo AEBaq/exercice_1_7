@@ -21,7 +21,7 @@
  *      solde = solde - retrait_mensuel - solde * interet_annuel/100
  *      nmbre_mois += 1;
  * }
- * Le compte va tenir "nmbre_mois" mois.
+ * Le compte va tenir "nmbre_mois" mois
  */
 
 using namespace std;
